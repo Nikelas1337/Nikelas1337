@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**Nikelas1337/Nikelas1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Привет, меня зовут Сергей
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Я учусь на программиста и начинаю свой путь в IT</h3>
+ 📚 Что изучаю <br>
+- Основы: языки, такие как: HTML, CSS, JS, Python <br>
+- Инструменты: Git, VS Code, PyCharm <br>
+- Цели: создавать свое первое веб-приложение <br>
+<br>
+🛠 Проекты <br>
+- **[Проект 1](ссылка)**: [Краткое описание] <br>
+- **[Проект 2](ссылка)**: [Краткое описание] <br>
+<br>
+📫 Связь <br>
+- Email: srglxndrv@gmail.com <br>
+- [Другая платформа]: [ссылка] <br>
+<br>
+---
+*Следите за моим прогрессом!*
